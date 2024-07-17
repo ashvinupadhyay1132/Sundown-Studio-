@@ -34,17 +34,13 @@ The project replicates the sleek and professional design of the Sundown Studio w
 
 To run this project locally:
 
-1. Clone the repository:
-2. Navigate to the project directory:
+1. Clone the repository
+2. Navigate to the project directory
 3. Open `index.html` in your browser.
 
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/ashvinupadhyay1132/Sundown-Studio-/issues) if you want to contribute.
-
-## License
-
-This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
 
 ## Acknowledgements
 
